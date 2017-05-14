@@ -1,2 +1,2 @@
 # nds-content
-Content created a class called Network Directory Services.
+Content created for a class called Network Directory Services.
